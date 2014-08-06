@@ -59,5 +59,10 @@ def main():
 	for evalPage in evalPagesNew:
 		evals.append(htmlParse(evalPage))
 
+	
+
+	for Eval in evals:
+
+
 if __name__ == '__main__':
 	main()
